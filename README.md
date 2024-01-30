@@ -51,7 +51,8 @@ This is a voice assistant application built using Flutter for the frontend, Pyth
 
 4. Run the app:
 
-    ```bash
+    ```bash![photo_2024-01-30_20-44-39](https://github.com/Godaminator02/Voice_assistant/assets/117902722/6c607b24-0796-49ae-a4e3-2c17c78fdf09)
+
     flutter run
     ```
 
