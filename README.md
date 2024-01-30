@@ -1,10 +1,10 @@
 <<<<<<< HEAD
-# Maverick_Voice_Assistant
+# Voice Assistant App
+
 =======
 A new Flutter project.
 
-# Voice Assistant App
-
+# Maverick_Voice_Assistant
 ## Overview
 
 This is a voice assistant application built using Flutter for the frontend, Python for backend functionality, and Firebase for authentication and data storage. The app allows users to interact with a voice-based assistant that can perform various tasks and respond to voice commands.
