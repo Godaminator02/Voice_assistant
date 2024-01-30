@@ -1,8 +1,6 @@
 <<<<<<< HEAD
-# Voice_assistant
+# Maverick_Voice_Assistant
 =======
-# maverick
-
 A new Flutter project.
 
 # Voice Assistant App
